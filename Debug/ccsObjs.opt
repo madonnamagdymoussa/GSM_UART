@@ -1,0 +1,1 @@
+"./DMA.obj" "./DMA_config.obj" "./GPIO.obj" "./GPTM.obj" "./GSM.obj" "./NVIC.obj" "./UART.obj" "./UART_config.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
